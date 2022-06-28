@@ -1,0 +1,3 @@
+[submodule "modules/pseolang"]
+	path = modules/pseolang
+	url = git@github.com:xqux/pseolang
